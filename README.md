@@ -1,6 +1,6 @@
 ## Defect Detection AI – Local Run Guide
 
-Use this playbook to bring up the entire stack (Next.js frontend + FastAPI backend) on a fresh Windows, macOS, or Linux workstation.
+Use this playbook to bring up the entire stack (Next.js frontend + FastAPI backend).
 
 ---
 
