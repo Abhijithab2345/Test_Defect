@@ -23,7 +23,7 @@ Use this playbook to bring up the entire stack (Next.js frontend + FastAPI backe
 | --- | --- | --- |
 | Node.js | 20.19.5 LTS | [nodejs.org](https://nodejs.org). Includes npm 10.8.2 |
 | npm | 10.8.2 | Bundled with Node 20.19.5 |
-| Python | 3.10.12 | [python.org](https://www.python.org). Install with `Add to PATH`. |
+| Python | 3.10.18 | [python.org](https://www.python.org). Install with `Add to PATH`. |
 | pip | 24.3.1 | `python -m pip install --upgrade pip==24.3.1`. |
 | Git | 2.44.0 | [git-scm.com](https://git-scm.com). Required to clone the repo. |
 | OpenAI Account | GPT-4o access | Needed to create `OPENAI_API_KEY`. |
